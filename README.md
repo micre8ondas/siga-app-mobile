@@ -4,17 +4,25 @@ Modelagem de um suposto app mobile para o SIGA CPS
 Exercício 12 – Aplicativo mobile para acesso dos(as) alunos(as) às funcionalidades do SIGA
 
 Em equipes – As mesmas dos seminários
+
 Data limite: 19.nov.2025
+
 Fazer a modelagem de um aplicativo mobile para acesso dos(as) alunos(as) às funcionalidades do SIGA a partir de uma tabela de requisitos funcionais e não funcionais
 
 Etapas:
 
   Etapa 1 – Requisitos – Diagrama de Casos de Uso
+    
     -Identificar os atores
+    
     -Identificar os requisitos funcionais
+    
     -Identificar os requisitos não funcionais
+    
     -Elaborar o Diagrama de Casos de Uso
+    
     -Elaborar as narrativas dos Casos de Uso
+   
     -Potenciais ferramentas: LucidChart, Draw.IO, Visio
 
 
