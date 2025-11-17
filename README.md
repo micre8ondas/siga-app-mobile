@@ -36,6 +36,7 @@ Etapas:
     -Simular a execução dessa primeira Sprint 
     -Gerar um burndown chart 
     -Potenciais ferramentas: Jira Agile, Trello, PangoSCRUM, Monday, GitHub 
+    
   Etapa 6 – Teste  
     -Elaborar um plano de teste para o Sistema 
     -Potenciais ferramentas: Planilha de planejamento e casos de teste 
